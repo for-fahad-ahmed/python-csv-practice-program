@@ -1,0 +1,10 @@
+StudentID,Name,Age,Gender,Grade,Email,Phone,EnrollmentYear,Major,GPA
+1001,Ali Ahmed,20,M,Junior,ali.ahmed@email.com,555-1234,2021,Computer Science,3.7
+1002,Sara Khan,19,F,Sophomore,sara.khan@email.com,555-2345,2022,Biology,3.5
+1003,Usman Tariq,21,M,Senior,usman.tariq@email.com,555-3456,2020,Mathematics,3.8
+1004,Ayesha Malik,18,F,Freshman,ayesha.malik@email.com,555-4567,2023,Physics,3.6
+1005,Imran Shah,22,M,Senior,imran.shah@email.com,555-5678,2020,Economics,3.4
+1006,Nadia Iqbal,20,F,Junior,nadia.iqbal@email.com,555-6789,2021,Chemistry,3.9
+1007,Farhan Ali,19,M,Sophomore,farhan.ali@email.com,555-7890,2022,History,3.2
+1008,Mehwish Raza,21,F,Senior,mehwish.raza@email.com,555-8901,2020,English,3.7
+1009,Ali Abdul, 20,M,Junior, aliabdul@email.com,555-2209,2021,Biology,3.9

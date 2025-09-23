@@ -1,0 +1,11 @@
+ID,Name,Age,Gender,Country,Score,Date,Status,Email,Phone
+1,John Doe,28,Male,USA,85,2024-06-01,Active,john@example.com,555-1234
+2,Jane Smith,34,Female,Canada,92,2024-06-02,Inactive,jane@example.com,555-5678
+3,Ali Khan,22,Male,Pakistan,78,2024-06-03,Active,ali@example.com,555-8765
+4,Maria Garcia,29,Female,Spain,88,2024-06-04,Active,maria@example.com,555-4321
+5,Chen Wei,31,Male,China,95,2024-06-05,Inactive,chen@example.com,555-2468
+6,Anna Ivanova,27,Female,Russia,81,2024-06-06,Active,anna@example.com,555-1357
+7,Ahmed Hassan,35,Male,Egypt,90,2024-06-07,Active,ahmed@example.com,555-9753
+8,Sarah Lee,24,Female,South Korea,87,2024-06-08,Inactive,sarah@example.com,555-8642
+9,David Brown,30,Male,UK,83,2024-06-09,Active,david@example.com,555-7531
+10,Linda Kim,26,Female,USA,89,2024-06-10,Active,linda@example.com,555-1597
